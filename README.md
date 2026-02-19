@@ -1,11 +1,11 @@
+<a href="https://u8views.com/github/booooohdan"><img src="https://u8views.com/api/v1/github/profiles/30977443/views/day-week-month-total-count.svg"></a>
+
 # Bohdan Ilkiv
 Senior Flutter Developer | 5+ years commercial experience
 
 📍 Lviv, Ukraine  
-🔗 linkedin.com/in/ilkivbohdan  
-📧 bo7145907@gmail.com  
-
-<a href="https://u8views.com/github/booooohdan"><img src="https://u8views.com/api/v1/github/profiles/30977443/views/day-week-month-total-count.svg"></a>
+🔗 [LinkedIn](https://www.linkedin.com/in/ilkivbohdan) 
+📧 [Email](mailto:bo7145907@gmail.com)
 
 ---
 
